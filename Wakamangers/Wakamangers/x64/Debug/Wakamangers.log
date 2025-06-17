@@ -1,0 +1,10 @@
+﻿  BattleSystem.cpp
+  Character.cpp
+  Enemy.cpp
+  Music.cpp
+  Player.cpp
+  Story.cpp
+  Wakamangers.cpp
+  World.cpp
+  Generating Code...
+  Wakamangers.vcxproj -> C:\Users\brouw\source\repos\Wakamangers\x64\Debug\Wakamangers.exe
